@@ -1,0 +1,5 @@
+Perm;St. Petersburg;10;N/A
+Perm;Moscow;5;N/A
+Perm;Novosibirsck;9;N/A
+St. Petersburg;Novosibirsck;N/A;1
+Moscow;Novosibirsck;3;N/A

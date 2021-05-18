@@ -1,0 +1,18 @@
+Moscow;St. Petersburg;2000;2400
+Moscow;Kazan;5100;5800
+Moscow;Novosibirsck;7400;7800
+Moscow;Irkutsck;13700;14000
+Moscow;Chita;N/A;15500
+Moscow;Vladivostock;16700;N/A
+St. Petersburg;Kazan;N/A;5200
+St. Petersburg;Novosibirsck;6000;N/A
+St. Petersburg;Vladivostock;16900;17600
+Kazan;Novosibirsck;1300;1800
+Kazan;Irkutsck;4690;4100
+Kazan;Chita;5440;5000
+Novosibirsck;Irkutsck;3100;4000
+Novosibirsck;Chita;3800;4200
+Novosibirsck;Vladivostock;4600;5000
+Irkutsck;Chita;600;900
+Irkutsck;Vladivostock;1000;N/A
+Chita;Vladivostock;400;900

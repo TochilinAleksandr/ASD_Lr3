@@ -1,0 +1,14 @@
+Perm;St. Petersburg;10;4
+Perm;Moscow;3;N/A
+Perm;Novosibirsck;5;7
+Perm;Irkutsck;1;N/A
+Perm;Rostov;N/A;9
+Moscow;St. Petersburg;1;10
+Moscow;Rostov;9;N/A
+Moscow;Irkutsck;N/A;15
+Moscow;Novosibirsck;N/A;5
+St. Petersburg;Irkutsck;N/A;13
+Rostov;Irkutsck;N/A;15
+Rostov;Novosibirsck;15;N/A
+Irkutsck;Novosibirsck;8;6
+
